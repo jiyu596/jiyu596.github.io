@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>拿来测试的文章</title>
-    <url>/2020/08/31/test/</url>
-    <content><![CDATA[<p>hey!!!</p>
+    <title>HELLO</title>
+    <url>/2020/08/31/hello/</url>
+    <content><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello!"></a>hello!</h1><p>I haven’t upload any article yet. Maybe I will start blogging this weekend.</p>
 ]]></content>
       <categories>
         <category>Misc</category>
       </categories>
       <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>拿来测试的文章</title>
-    <url>/2020/08/31/test_Oi/</url>
-    <content><![CDATA[<h1 id="TEST"><a href="#TEST" class="headerlink" title="TEST"></a>TEST</h1><p>this is a paragragh</p>
-<blockquote>
-<p>quick brown fox jumps over the lazy dog.</p>
-</blockquote>
-<p><strong>bold!!</strong></p>
-<h3 id="big"><a href="#big" class="headerlink" title="big"></a>big</h3><script type="math/tex; mode=display">
-y=kx+b</script>]]></content>
-      <categories>
-        <category>OI</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
+        <tag>test</tag>
       </tags>
   </entry>
 </search>
