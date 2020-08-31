@@ -4,7 +4,8 @@
     <title>HELLO</title>
     <url>/2020/08/31/hello/</url>
     <content><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello!"></a>hello!</h1><p>I haven’t upload any article yet. Maybe I will start blogging this weekend.</p>
-]]></content>
+<script type="math/tex; mode=display">
+y=\sum_{i=1}^nx_i\times5</script>]]></content>
       <categories>
         <category>Misc</category>
       </categories>
