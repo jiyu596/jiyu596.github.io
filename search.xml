@@ -2,15 +2,6 @@
 <search>
   <entry>
     <title>拿来测试的文章</title>
-    <url>/2020/08/31/test/</url>
-    <content><![CDATA[<p>hey!!!</p>
-]]></content>
-      <tags>
-        <tag>杂项</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>拿来测试的文章</title>
     <url>/2020/08/31/test_Oi/</url>
     <content><![CDATA[<h1 id="TEST"><a href="#TEST" class="headerlink" title="TEST"></a>TEST</h1><p>this is a paragragh</p>
 <blockquote>
@@ -21,6 +12,15 @@
 y=kx+b</script>]]></content>
       <tags>
         <tag>OI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>拿来测试的文章</title>
+    <url>/2020/08/31/test/</url>
+    <content><![CDATA[<p>hey!!!</p>
+]]></content>
+      <tags>
+        <tag>杂项</tag>
       </tags>
   </entry>
 </search>
